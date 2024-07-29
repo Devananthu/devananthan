@@ -1,1 +1,1 @@
-
+Welcome to the Python Quiz Game! This project is a fun and interactive quiz game developed in Python that allows users to test their knowledge on various topics. With a user-friendly interface and a scoring system to track your performance, this game offers an engaging way to challenge yourself. To get started, simply clone the repository, install any required dependencies, and run the game script. Contributions are welcome, so if you have any suggestions or improvements, feel free to open an issue or submit a pull request. Enjoy testing your knowledge!
